@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cursWorkTLP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cursWorkTLP_jar</output-path>
+    <root id="archive" name="cursWorkTLP.jar">
+      <element id="module-output" name="cursWorkTLP" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../untitled/automaton-1.11-8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../untitled/generex-1.0.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

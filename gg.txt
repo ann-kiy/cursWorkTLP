@@ -1,0 +1,10 @@
+
+aa(a+b+c)*aab+aaab+aaaab
+aaaab
+aaab
+aaacaab
+aaaab
+aaab
+aaabaab
+aaaaab
+aaaaaab

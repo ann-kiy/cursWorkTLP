@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="automaton-1.11-8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../untitled/automaton-1.11-8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/generex-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/generex-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
